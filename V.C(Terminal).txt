@@ -1,0 +1,3 @@
+ python .\emocoes.py   
+ python .\gestos.py
+python .\objetos.py

@@ -1,0 +1,13 @@
+Pino 16 → GND
+Pino 15 → 5V (iluminação)
+Pino 14 → A3
+Pino 13 → A2
+Pino 12 → A1
+Pino 11 → A0
+Pinos 10, 9, 8 e 7 → Sem conexão
+Pino 6 → D6
+Pino 5 → GND
+Pino 4 → D5
+Pino 3 → GND (contraste)
+Pino 2 → 5V
+Pino 1 → GND
